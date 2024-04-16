@@ -1,0 +1,2 @@
+Enter decimal number: 10 
+Octal value: 12

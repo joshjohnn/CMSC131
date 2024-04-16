@@ -1,0 +1,5 @@
+Enter password: 
+Enter number: 
+Wrong credentials
+Enter password: 
+Access Denied
