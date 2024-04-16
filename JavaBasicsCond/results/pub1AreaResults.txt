@@ -1,0 +1,3 @@
+Enter base:
+Enter height:
+Area is: 30.0
